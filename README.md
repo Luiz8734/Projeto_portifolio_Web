@@ -3,7 +3,7 @@
 Um portfólio moderno e responsivo desenvolvido em **React**, apresentando projetos, habilidades e informações de contato de forma elegante e interativa. O portfólio foi desenvolvido com um estilo minimalista e profissional, utilizando as cores azul (#007bff), branco (#ffffff) e preto (#000000) para transmitir seriedade, confiança e profissionalismo.
 
 🌐 **Acesse o projeto online:**  
-👉 [Link da Vercel] (será atualizado após deploy)
+👉 [[Link da Vercel](https://projeto-portifolio-web-three.vercel.app/)]
 
 ---
 
@@ -36,7 +36,6 @@ Um portfólio moderno e responsivo desenvolvido em **React**, apresentando proje
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/Luiz8734/meuPortifolio.git
-   cd meuPortifolio
    ```
 
 2. **Instale as dependências:**
@@ -221,12 +220,6 @@ Projeto integrando Google Apps Script e REST Countries API para exibir e gerenci
 ## 📝 Licença
 
 Este projeto está sob a licença **MIT** — consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## 🖼️ Screenshots
-
-_Screenshots serão adicionados após o deploy_
 
 ---
 
